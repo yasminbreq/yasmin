@@ -1,2 +1,0 @@
-# yasmin
-brew
